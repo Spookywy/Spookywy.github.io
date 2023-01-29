@@ -1,7 +1,8 @@
 ---
-layout: page
-title: About
-permalink: /about/
+layout: post
+title: "Welcome!"
+date: 2023-01-27 18:58:50 +0100
+categories: welcome
 ---
 
 Hello 👋 my name is Valentin Menoret.
