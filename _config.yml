@@ -53,5 +53,9 @@ plugins:
 #   - vendor/gems/
 #   - vendor/ruby/
 
+header_pages:
+  - projects/index.md
+  - about.md
+
 sass:
   quiet_deps: true

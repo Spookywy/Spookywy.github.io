@@ -8,8 +8,8 @@ Hello 👋 my name is Valentin Menoret.
 
 I am a 25 years old software engineer with a passion for new technologies and a strong desire to constantly improve my craft.
 
-I graduated from 🎓[IMT Atlantique] in 2022 with a master's degree in software engineering.
+I graduated from 🎓[IMT Atlantique][imt-a] in 2022 with a master's degree in software engineering.
 
 I'm always eager to learn and collaborate with other enthusiasts while working on interesting and meaningful projects 👨🏻‍💻.
 
-[imt atlantique]: https://www.imt-atlantique.fr/fr
+[imt-a]: https://www.imt-atlantique.fr/fr
