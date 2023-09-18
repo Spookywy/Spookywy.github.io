@@ -8,9 +8,15 @@ layout: default
   </header>
   <p>{{page.description}}</p>
   <div class="post-content">{{ content }}</div>
+  {%- if page.live_demo_link -%}
   <a href="{{page.live_demo_link}}">
     <i class="fa-solid fa-rocket"></i> Live Demo
   </a>
+  {%- endif -%} {%- if page.google_play_link -%}
+  <a href="{{page.google_play_link}}">
+    <i class="fa-brands fa-google-play"></i> Google Play
+  </a>
+  {%- endif -%}
   <a href="{{page.github_repo_link}}" style="display: block; margin-top: 5px"
     ><i class="fa-brands fa-github"></i> GitHub Repository</a
   >

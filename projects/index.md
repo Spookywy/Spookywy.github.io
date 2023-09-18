@@ -7,6 +7,8 @@ title: Projects
 
 [RanDOM Plouf]({% link projects/random-plouf.md %})
 
+[Universe Client]({% link projects/universe-client.md %})
+
 [Universe]({% link projects/universe.md %})
 
 [Minesweeper]({% link projects/minesweeper.md %})

@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: project
 title: Minesweeper
+description: A logic puzzle video game
+github_repo_link: https://github.com/Spookywy/minesweeper
+live_demo_link: https://minesweeper-pro.vercel.app/
 ---
-
-[GitHub Repository][github-repository]
-
-[github-repository]: https://github.com/Spookywy/minesweeper

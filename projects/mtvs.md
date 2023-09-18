@@ -1,11 +1,7 @@
 ---
-layout: page
+layout: project
 title: MTVS
+description: With MTVS, watch the latest movie trailers, make a watchlist or add movies to favorites
+github_repo_link: https://github.com/Spookywy/MTVS
+google_play_link: https://play.google.com/store/apps/details?id=com.mtvs
 ---
-
-[GitHub Repository][github-repository]
-
-[Google Play][google-play]
-
-[github-repository]: https://github.com/Spookywy/MTVS
-[google-play]: https://play.google.com/store/apps/details?id=com.mtvs
