@@ -2,22 +2,24 @@
 layout: default
 ---
 
+{% assign project = site.data.projects | where:"local_link", page.local_link |
+first %}
 <article class="post">
   <header class="post-header">
-    <h1 class="post-title">{{ page.title | escape }}</h1>
+    <h1 class="post-title">{{ project.name | escape }}</h1>
   </header>
-  <p>{{page.description}}</p>
+  <p>{{project.description}}</p>
   <div class="post-content">{{ content }}</div>
-  {%- if page.live_demo_link -%}
-  <a href="{{page.live_demo_link}}">
+  {%- if project.live_demo_link -%}
+  <a href="{{project.live_demo_link}}">
     <i class="fa-solid fa-rocket"></i> Live Demo
   </a>
-  {%- endif -%} {%- if page.google_play_link -%}
-  <a href="{{page.google_play_link}}">
+  {%- endif -%} {%- if project.google_play_link -%}
+  <a href="{{project.google_play_link}}">
     <i class="fa-brands fa-google-play"></i> Google Play
   </a>
   {%- endif -%}
-  <a href="{{page.github_repo_link}}" style="display: block; margin-top: 5px"
+  <a href="{{project.github_repo_link}}" style="display: block; margin-top: 5px"
     ><i class="fa-brands fa-github"></i> GitHub Repository</a
   >
 </article>

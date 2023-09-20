@@ -1,0 +1,8 @@
+<ul class="post-list">
+  {%- for project in site.data.projects -%}
+  <li>
+    <a class="post-link" href="{{ project.local_link }}">{{project.name}}</a>
+    <span class="post-meta">{{project.description}}</span>
+  </li>
+  {%- endfor -%}
+</ul>
