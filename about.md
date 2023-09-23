@@ -6,7 +6,7 @@ permalink: /about/
 
 Hello 👋 my name is Valentin Menoret.
 
-I am a 25 years old software engineer with a passion for new technologies and a strong desire to constantly improve my craft.
+I am a software engineer with a passion for new technologies and a strong desire to constantly improve my craft.
 
 I graduated from 🎓[IMT Atlantique][imt-a] in 2022 with a master's degree in software engineering.
 

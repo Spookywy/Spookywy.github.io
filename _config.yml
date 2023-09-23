@@ -21,7 +21,7 @@
 title: Valentin Menoret
 email: ""
 description: >- # this means to ignore newlines until "baseurl:"
-  I am Valentin Menoret, a 25 years old software engineer with a passion for new technologies.
+  I am Valentin Menoret, a software engineer with a passion for new technologies.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username:
