@@ -1,0 +1,11 @@
+<ul class="post-list">
+  {%- for school in site.data.education -%}
+  <li>
+    <h4 style="margin-bottom: 0">{{school.name}}</h4>
+    <p class="post-meta" style="margin-bottom: 0">
+      {{school.years}} | {{school.location}}
+    </p>
+    <p>{{school.description}}</p>
+  </li>
+  {%- endfor -%}
+</ul>

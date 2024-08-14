@@ -55,6 +55,7 @@ plugins:
 #   - vendor/ruby/
 
 header_pages:
+  - education/index.md
   - projects/index.md
   - about.md
 
