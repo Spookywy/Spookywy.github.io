@@ -10,6 +10,12 @@
   github_repo_link: https://github.com/Spookywy/random-plouf
   live_demo_link: https://random-plouf.vercel.app/
 
+- name: Url shortener
+  description: A simple URL shortener
+  local_link: url-shortener
+  github_repo_link: https://github.com/Spookywy/url-shortener
+  live_demo_link: https://url-shortener-p3em.onrender.com/
+
 - name: Universe Client
   description: A client to retrieve data from the Universe API
   local_link: universe-client

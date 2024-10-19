@@ -5,6 +5,7 @@ You can access my website at: https://spookywy.github.io
 ## Run Locally
 
 ```
+bundle install
 bundle exec jekyll serve --livereload
 ```
 
