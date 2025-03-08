@@ -1,52 +1,75 @@
 - name: Time 2 Guess
   description: A party game where players have to guess words
   local_link: time2guess
-  github_repo_link: https://github.com/Spookywy/time2guess
+  github_repos:
+    - name: Website
+      link: https://github.com/Spookywy/time2guess
+    - name: Application
+      link: https://github.com/Spookywy/time2guess-mobile
   live_demo_link: https://time2guess.vercel.app/
 
 - name: RanDOM Plouf
-  description: A website for conducting random draws and generating teams randomly
+  description: A website and a mobile APP for conducting random draws and generating teams randomly
   local_link: random-plouf
-  github_repo_link: https://github.com/Spookywy/random-plouf
+  github_repos:
+    - name: Website
+      link: https://github.com/Spookywy/random-plouf
+    - name: Application
+      link: https://github.com/Spookywy/random-plouf-mobile
   live_demo_link: https://random-plouf.vercel.app/
+  google_play_link: https://play.google.com/store/apps/details?id=com.valandxp.randomploufmobile
 
 - name: Url shortener
   description: A simple URL shortener
   local_link: url-shortener
-  github_repo_link: https://github.com/Spookywy/url-shortener
+  github_repos:
+    - name: Website/API
+      link: https://github.com/Spookywy/url-shortener
   live_demo_link: https://url-shortener-p3em.onrender.com/
 
 - name: Universe Client
   description: A client to retrieve data from the Universe API
   local_link: universe-client
-  github_repo_link: https://github.com/Spookywy/universe-client
+  github_repos:
+    - name: Website
+      link: https://github.com/Spookywy/universe-client
   live_demo_link: https://universe-client-spookywy.vercel.app/
 
 - name: Universe
   description: A Django API to retrieve the content of the universe, including planets, stars, galaxies, and all other forms of matter and energy
   local_link: universe
-  github_repo_link: https://github.com/Spookywy/universe
+  github_repos:
+    - name: API
+      link: https://github.com/Spookywy/universe
   live_demo_link: https://spookywy.pythonanywhere.com/
 
 - name: Minesweeper
   description: A logic puzzle video game
   local_link: minesweeper
-  github_repo_link: https://github.com/Spookywy/minesweeper
+  github_repos:
+    - name: Website
+      link: https://github.com/Spookywy/minesweeper
   live_demo_link: https://minesweeper-pro.vercel.app/
 
 - name: Messages
   description: A small messaging app
   local_link: messages
-  github_repo_link: https://github.com/Spookywy/messages
+  github_repos:
+    - name: Website/API
+      link: https://github.com/Spookywy/messages
 
 - name: MTVS
   description: With MTVS, watch the latest movie trailers, make a watchlist or add movies to favorites
   local_link: mtvs
-  github_repo_link: https://github.com/Spookywy/MTVS
+  github_repos:
+    - name: Application
+      link: https://github.com/Spookywy/MTVS
   google_play_link: https://play.google.com/store/apps/details?id=com.mtvs
 
 - name: Team Schedule
   description: An app to manage team schedules
   local_link: team-schedule
-  github_repo_link: https://github.com/Spookywy/team-schedule
+  github_repos:
+    - name: Website
+      link: https://github.com/Spookywy/team-schedule
   live_demo_link: https://team-schedule.vercel.app/

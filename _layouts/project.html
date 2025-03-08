@@ -15,11 +15,16 @@ first %}
     <i class="fa-solid fa-rocket"></i> Live Demo
   </a>
   {%- endif -%} {%- if project.google_play_link -%}
-  <a href="{{project.google_play_link}}">
+  <a
+    href="{{project.google_play_link}}"
+    style="display: block; margin-top: 5px"
+  >
     <i class="fa-brands fa-google-play"></i> Google Play
   </a>
-  {%- endif -%}
-  <a href="{{project.github_repo_link}}" style="display: block; margin-top: 5px"
-    ><i class="fa-brands fa-github"></i> GitHub Repository</a
+  {%- endif -%} {%- for github_repo in project.github_repos -%}
+  <a href="{{github_repo.link}}" style="display: block; margin-top: 5px"
+    ><i class="fa-brands fa-github"></i> {{github_repo.name}} GitHub
+    Repository</a
   >
+  {%- endfor -%}
 </article>
