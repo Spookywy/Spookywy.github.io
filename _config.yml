@@ -56,7 +56,9 @@ plugins:
 
 header_pages:
   - education/index.md
+  - experience/index.md
   - projects/index.md
+  - sports/index.md
   - about.md
 
 sass:

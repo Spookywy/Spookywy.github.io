@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Personal projects
+title: Personal Projects
 ---
 
 {% include_relative partials/list.html %}
