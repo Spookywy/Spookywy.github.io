@@ -12,9 +12,12 @@ I discovered a passion for **running** a few years ago. It's not only fun, but a
 <br>
 **Upcoming races**
 
-- Nantes Marathon 2025
+No upcoming races
 
 **Past races**
 
-- <a href="https://www.strava.com/activities/12521609973">La Baule Relay Triathlon 2024</a>
-- <a href="https://www.strava.com/activities/11229008470">Nantes Half Marathon 2024</a>
+<a href="https://www.strava.com/activities/14302631811">Nantes Marathon 2025</a>
+
+<a href="https://www.strava.com/activities/12521609973">La Baule Relay Triathlon 2024</a>
+
+<a href="https://www.strava.com/activities/11229008470">Nantes Half Marathon 2024</a>
