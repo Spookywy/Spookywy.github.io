@@ -12,12 +12,11 @@ I discovered a passion for **running** a few years ago. It's not only fun, but a
 <br>
 **Upcoming races**
 
-<a href="https://marathon-paris.dossards-solidaires.org/fundraisers/valentin-menoret">Paris Marathon 2026</a>
-
-<p>I’ll be running the Paris Marathon 2026 and support <a href="https://www.msf.org">Doctors Without Borders</a> with a solidarity bib.
-You can donate and support the cause <a href="https://marathon-paris.dossards-solidaires.org/fundraisers/valentin-menoret">here</a>.</p>
+No upcoming races at the moment. Stay tuned!
 
 **Past races**
+
+<a href="https://www.strava.com/activities/18076977170">Paris Marathon 2026</a>
 
 <a href="https://www.strava.com/activities/14302631811">Nantes Marathon 2025</a>
 
