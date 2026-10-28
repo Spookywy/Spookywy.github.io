@@ -12,7 +12,7 @@ I discovered a passion for **running** a few years ago. It's not only fun, but a
 <br>
 **Upcoming races**
 
-No upcoming races at the moment. Stay tuned!
+Milano Marathon 2027
 
 **Past races**
 
